@@ -1,3 +1,7 @@
+# The data stuff. Each dev build its data stuff.
+data/**/*.txt
+data/**/*.jsonl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
